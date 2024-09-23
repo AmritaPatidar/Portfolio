@@ -1,0 +1,72 @@
+.{
+    margin: 0%;
+    padding: 0%;
+}
+
+.nav ul {
+    display: flex;
+   justify-content: left;
+    gap: 8%;
+    margin-left: 50%;
+   }
+    
+ .ul a{
+        display: flex;
+        color:rgb(251, 248, 248);
+        font-size: 40px;
+        text-decoration: none;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-top: 50px;
+        text-shadow: 0 0 10px black ;
+    }
+    .ul a:hover{
+        box-shadow: 0 0 40px black;
+    }
+
+.img{
+    background-image:url(p3vf296f.png);
+    height: 98vh;
+    width: 100%;
+
+}
+.ab{
+    color:whitesmoke;
+    font-family:cursive;
+    display: flex;
+    margin-left: 280px;
+    padding-top: 120px;
+    font-size: 80px;
+    
+}
+.ab:hover{
+    color:rgb(180, 174, 174);
+    font-style:italic;
+}
+
+.like{
+    color:rgb(185, 178, 178);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 220px;
+    margin-top: 10px;
+    font-size: 28px;
+    
+}
+
+.my{
+    color:rgb(211, 206, 206);
+    font-size: 30px;
+    margin-left: 90px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-top: 40px;
+   box-shadow: 0 0 15px rgb(238, 234, 234);
+   width: 770px;
+   height: 255px;
+   padding-top: 5px;
+   padding-left: 20px;
+   padding-right: 20px;
+  
+}
+.my:hover{
+    color: rgb(162, 162, 241);
+   
+}

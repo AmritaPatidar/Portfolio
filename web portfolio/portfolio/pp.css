@@ -1,0 +1,154 @@
+.{
+    margin: 0%;
+    padding: 0%;
+
+}
+.nav{
+    display: flex;
+    justify-content: center;
+   margin-left: 40%;
+   
+   
+}
+.nav ul {
+display: flex;
+justify-content: space-between;
+justify-content: space-around;
+gap: 13%;
+}
+
+.ul a{
+    display: flex;
+    color: black;
+    font-size: 35px;
+    justify-content: space-around;
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 0 0 10px #8f8d8def ;
+
+}
+.ul a:hover{
+    text-shadow: 0 0 10px rgb(7, 17, 197);
+}
+.home{
+    height: 80vh;
+    width: 97%;
+}
+.main1{
+width: 56%;
+height: 89vh;
+position: absolute;
+ z-index: -999;
+ margin-top: 3px;
+background-color:#33231def;
+}
+.main3{
+width: 50%;
+height: 100vh;
+display: flex;
+justify-content: end;
+align-items: center;
+margin-left: 700px;
+}
+
+
+.main2{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.home{
+    display: flex;
+}
+.card{
+    background-color: white;
+    height: 620px;
+    width: 450px;
+    box-shadow: 0 0 15px black;
+    padding-top: 50px;
+    
+}
+.img{
+    height: 60%;
+    width: 83%;
+    display: flex;
+    margin-top: 3px;
+    margin-left: 40px;
+   background-color: white;
+}
+
+.img:hover{
+  box-shadow: 0 0 60px rgb(235, 227, 227);
+}
+
+.am{
+    color:black;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 0 0 3px black;
+
+}
+.am:hover{
+    color:black;font-style: italic;
+
+}
+
+.hr{
+    border-color: blue;
+    width: 90px;
+    margin-top: 5px;
+}
+
+.full{
+    color:black;
+    display: flex;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.third {
+    font-size: 28px;
+    margin-left: 10px;
+    gap: 5%;
+    margin-left: 160px;
+    
+    
+}
+.hh{
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 60px;
+    margin-left: 50px;
+    color: black;
+}
+.hh:hover{
+    color: #30180fef;
+}
+
+.he{
+    font-size: 40px;
+  color:#3e170aef ;
+  margin-top: 200px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.fbb{
+   box-shadow: 0 0 20px rgb(44, 37, 37);
+   
+}
+
+
+.twt{
+    box-shadow: 0 0 20px rgb(39, 34, 34);
+}
+
+.ins{
+    box-shadow: 0 0 20px rgb(36, 30, 30);
+    
+
+}
